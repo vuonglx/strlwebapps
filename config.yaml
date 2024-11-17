@@ -12,7 +12,7 @@ credentials:
       password: $2b$12$hxvts1loNyH4XKT98HIQ5eiHZin5mqyc5W77mPN1txNTmGi4eeM/W
       roles:
       - admin
-    pparker:
+    testadmin1:
       email: pparker@gmail.com
       failed_login_attempts: 0
       logged_in: true
@@ -21,7 +21,7 @@ credentials:
       roles:
       - editor
       - viewer
-    rmiller:
+    testuser1:
       email: rmiller@gmail.com
       name: Rebecca Miller
       password: $2b$12$0nz56cbnVEUd6/L6yMOgduHHsn73LdyzW2LdkHkYTUoWXJL9/IKSe

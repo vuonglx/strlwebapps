@@ -13,7 +13,7 @@ credentials:
       roles:
       - admin
     testadmin1:
-      email: pparker@gmail.com
+      email: testadmin1@gmail.com
       failed_login_attempts: 0
       logged_in: true
       name: Peter Parker
@@ -22,7 +22,7 @@ credentials:
       - editor
       - viewer
     testuser1:
-      email: rmiller@gmail.com
+      email: testuser1@gmail.com
       name: Rebecca Miller
       password: $2b$12$0nz56cbnVEUd6/L6yMOgduHHsn73LdyzW2LdkHkYTUoWXJL9/IKSe
       roles:

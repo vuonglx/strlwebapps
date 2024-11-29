@@ -40,7 +40,7 @@ st.subheader("Hard Skills", anchor=False)
 st.write(
     """
     - Programming: Python (Scikit-learn, Pandas), SQL
-    - Data Visualization: PowerBi, Streamlit, Tableau
+    - Data Visualization: PowerBI, Streamlit, Tableau
     - Modeling: Logistic regression, linear regression, decision trees
     - Databases: Postgres, MongoDB, MySQL
     """
